@@ -1,0 +1,33 @@
+{
+  "name": "es6-demo",
+  "version": "1.0.0",
+  "description": "ES6 Demo",
+  "main": "boot.js",
+  "dependencies": {
+    "co": "^3.1.0",
+    "commander": "^2.5.0",
+    "mongodb": "^1.4.19",
+    "thunkify": "^2.1.2",
+    "traceur": "0.0.72"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.6",
+    "light-watch": "^0.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:basicdays/js-sandbox.git"
+  },
+  "keywords": [
+    "ES6",
+    "traceur",
+    "demo"
+  ],
+  "author": "basicdays",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basicdays/js-sandbox/issues"
+  },
+  "homepage": "https://github.com/basicdays/js-sandbox"
+}
